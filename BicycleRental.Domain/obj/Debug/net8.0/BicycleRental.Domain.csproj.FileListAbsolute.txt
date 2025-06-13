@@ -1,0 +1,12 @@
+E:\Users\tmu1.216-SERVER\RiderProjects\BicycleRental\BicycleRental.Domain\bin\Debug\net8.0\BicycleRental.Domain.deps.json
+E:\Users\tmu1.216-SERVER\RiderProjects\BicycleRental\BicycleRental.Domain\bin\Debug\net8.0\BicycleRental.Domain.dll
+E:\Users\tmu1.216-SERVER\RiderProjects\BicycleRental\BicycleRental.Domain\bin\Debug\net8.0\BicycleRental.Domain.pdb
+E:\Users\tmu1.216-SERVER\RiderProjects\BicycleRental\BicycleRental.Domain\obj\Debug\net8.0\BicycleRental.Domain.csproj.AssemblyReference.cache
+E:\Users\tmu1.216-SERVER\RiderProjects\BicycleRental\BicycleRental.Domain\obj\Debug\net8.0\BicycleRental.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Users\tmu1.216-SERVER\RiderProjects\BicycleRental\BicycleRental.Domain\obj\Debug\net8.0\BicycleRental.Domain.AssemblyInfoInputs.cache
+E:\Users\tmu1.216-SERVER\RiderProjects\BicycleRental\BicycleRental.Domain\obj\Debug\net8.0\BicycleRental.Domain.AssemblyInfo.cs
+E:\Users\tmu1.216-SERVER\RiderProjects\BicycleRental\BicycleRental.Domain\obj\Debug\net8.0\BicycleRental.Domain.csproj.CoreCompileInputs.cache
+E:\Users\tmu1.216-SERVER\RiderProjects\BicycleRental\BicycleRental.Domain\obj\Debug\net8.0\BicycleRental.Domain.dll
+E:\Users\tmu1.216-SERVER\RiderProjects\BicycleRental\BicycleRental.Domain\obj\Debug\net8.0\refint\BicycleRental.Domain.dll
+E:\Users\tmu1.216-SERVER\RiderProjects\BicycleRental\BicycleRental.Domain\obj\Debug\net8.0\BicycleRental.Domain.pdb
+E:\Users\tmu1.216-SERVER\RiderProjects\BicycleRental\BicycleRental.Domain\obj\Debug\net8.0\ref\BicycleRental.Domain.dll
